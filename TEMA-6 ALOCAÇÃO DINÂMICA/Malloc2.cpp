@@ -13,5 +13,4 @@ main()
   scanf("%s",string); // Sem o & antes de string pois ja e endereco
   printf("\n %s",string);
   free(string); // libera memoria alocada
-  
 }
