@@ -27,6 +27,6 @@ int main()
   printf("Vetor Soma_linha");
   for (i = 1; i < 3; i++)
   {
-    printf("Soma:", soma_linha[i]);
+    printf("Soma: %d", soma_linha[i]);
   }
 }
