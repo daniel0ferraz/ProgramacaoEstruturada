@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 main()
 {
    int i, vetor[3];
