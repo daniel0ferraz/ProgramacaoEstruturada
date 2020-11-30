@@ -12,6 +12,10 @@
       {
         printf("Linha[%d]Coluna[%d]:", linha+1, coluna+1);
         scanf("%d",&valores[linha][coluna]);
+        valores[1][3];
+        valores[2][3];
+        valores[3][3];
+        
       }
       
       // Exibindo valores de matrizes
