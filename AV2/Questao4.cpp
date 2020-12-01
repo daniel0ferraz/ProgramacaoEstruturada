@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 /*Aluno: Daniel Ferraz Coelho | T145
-  Matricula: 2020100646
+
 */
 void troca(char *vet)
 {

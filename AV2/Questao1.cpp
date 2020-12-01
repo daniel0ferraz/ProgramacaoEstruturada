@@ -1,7 +1,7 @@
 #include <stdio.h>
-#include<stdlib.h>
+#include <stdlib.h>
 /*Aluno: Daniel Ferraz Coelho | T145
-  Matricula: 2020100646
+
 */
 main()
 {
@@ -10,7 +10,7 @@ main()
 
 	for (i = 0; i < 10; i++)
 	{
-		printf("Digite um numero %d\n",i+1);
+		printf("Digite um numero %d\n", i + 1);
 		scanf("%d", &v[i]);
 	}
 	for (i = 0; i < 10; i++)
@@ -31,4 +31,3 @@ main()
 	for (i = 0; i < ii; i++)
 		printf("Impar: %d\n", impar[i]);
 }
-

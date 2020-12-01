@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
 /*Aluno: Daniel Ferraz Coelho | T145
-  Matricula: 2020100646
 */
 main() {
 

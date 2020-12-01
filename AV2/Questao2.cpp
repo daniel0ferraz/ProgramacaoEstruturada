@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
 /*Aluno: Daniel Ferraz Coelho | T145
-  Matricula: 2020100646
 */
 main(){
 	int ind, num[10], j, k;
@@ -13,8 +12,8 @@ main(){
 		  if (num[ind]==num[j]){
 			printf("\nNumero repetido, digite outro :( \n");
 			ind--;
-			/*a execução da instrução atual do bloco de instruções será
-			   interrompida e passa para a próxima repetição do laço.*/
+			/*a execuï¿½ï¿½o da instruï¿½ï¿½o atual do bloco de instruï¿½ï¿½es serï¿½
+			   interrompida e passa para a prï¿½xima repetiï¿½ï¿½o do laï¿½o.*/
 			continue;
 	       }
 	   } 
